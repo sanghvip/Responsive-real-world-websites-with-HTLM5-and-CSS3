@@ -12,7 +12,6 @@ html ,body {
     font-weight: 300;
     text-rendering: optimizeLegibility; /*The text-rendering CSS property provides information to the rendering engine about what to optimize for when rendering text.*/
     overflow-x:hidden;
-
 }
 
 .clearfix {
