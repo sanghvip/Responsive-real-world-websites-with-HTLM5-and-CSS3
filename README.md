@@ -2,13 +2,13 @@
 
 
 ## Table of Contents :pushpin:
-* [Introduction](#Introduction)
-* [Purpose](#Purpose)
-* [Technologies](#Technologies)
-* [Course outcome](#Course-Outcome)
-* [Course Status](#Course-Status)
-* [Features](#Features)
-* [Sources](#Sources)
+* Introduction
+* Purpose
+* Technologies
+* Course outcome
+* Course Status
+* Features
+* Sources
 
 
 &nbsp;
