@@ -69,19 +69,19 @@ $(document).ready(function () {
 
         /*Animations on scroll*/
         $('.js--wp-1').waypoint(function(direction) {
-            $(".js--wp-1").addClass('animate__tada'), {offest: '1%'};
+            $(".js--wp-1").addClass('animate__tada'), {offest: '80%'};
         })
 
-        $('.js--wp-2').waypoint(function(direction) {
-            $(".js--wp-2").addClass('animate__fadeInRight'),{offest: '1%'};
+        $('.section-steps').waypoint(function(direction) {
+            $(".js--wp-2").addClass('animate__fadeInRight'),{offest: '80%'};
         })
 
         $('.js--wp-3').waypoint(function(direction) {
-            $(".js--wp-3").addClass('animate__flipInX'),{offest: '1%'};
+            $(".js--wp-3").addClass('animate__flipInX'),{offest: '80%'};
         })
         
-        $('.js--wp-4').waypoint(function(direction) {
-            $(".js--wp-4").addClass('animate__tada'),{offest: '1%'};
+        $('.section-plans').waypoint(function(direction) {
+            $(".js--wp-4").addClass('animate__tada'),{offest: '80%'};
         })
 
         /*Mobile navigation*/
