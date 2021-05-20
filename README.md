@@ -15,7 +15,7 @@
 
 
 ## Introduction :pushpin:
----------
+
 While pursing the course "Build responsive Real World Websites with HTML5 and CSS3", practical lessons were implemented through HTML and CSS files.
 
 One Big project was the Omnifood website which included many topics from CSS, Animation and HTML.
@@ -26,7 +26,7 @@ One Big project was the Omnifood website which included many topics from CSS, An
 
 &nbsp;
 ## Purpose :dart:
-----
+
 This repository acts as a collection of all the resources developed and used while completing the course lectures.
 
 :smile: Feel free to clone the repository and add your own styles and features (smiley face)
@@ -36,7 +36,7 @@ This repository acts as a collection of all the resources developed and used whi
 &nbsp;
 
 ## Technologies :pushpin:
----------
+
 HTML5, CSS3, JQuery, Javascript
 
 &nbsp;
